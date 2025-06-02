@@ -9,10 +9,10 @@ _This repo is currently documentation-only. For architecture, principles, and in
 
 ## Documentation Roadmap
 
-- [Architecture Overview](docs/architecture.md)
-- [Design Principles](docs/principles.md)
-- [Integration Patterns](docs/integration.md)
-- [Roadmap](docs/roadmap.md)
+- [Architecture Overview](architecture.md)
+- [Design Principles](principles.md)
+- [Integration Patterns](integration.md)
+- [Roadmap](roadmap.md)
 
 > **Component Repositories:**  
 > - [Sophia](#)  
