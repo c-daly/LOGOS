@@ -15,6 +15,6 @@ _This repo is currently documentation-only. For architecture, principles, and in
 - [Roadmap](roadmap.md)
 
 > **Component Repositories:**  
-> - [Sophia]('https://github.com/c-daly/Sophia')  
+> - [Sophia](https://github.com/c-daly/Sophia)  
 > - [Apollo](#)  
 > - [Talos](#)
