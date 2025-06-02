@@ -16,5 +16,5 @@ _This repo is currently documentation-only. For architecture, principles, and in
 
 > **Component Repositories:**  
 > - [Sophia](https://github.com/c-daly/Sophia)  
-> - [Apollo](#)  
+> - [Apollo](https://github.com/Defiant-Duck/DeskBuddy)  
 > - [Talos](#)
