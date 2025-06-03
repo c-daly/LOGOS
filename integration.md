@@ -89,10 +89,6 @@ This document describes common integration patterns and sample topologies.
 
 ---
 
-## Example Diagrams
 
-*(See `/docs/diagrams` for example architecture diagrams and flowcharts.)*
-
----
 
 *For more information or to contribute an integration pattern, see [CONTRIBUTING.md](../CONTRIBUTING.md) or open an issue in the repository.*
